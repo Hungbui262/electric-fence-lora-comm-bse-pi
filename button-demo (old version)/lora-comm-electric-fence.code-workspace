@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "lora-comm-Node-A",
+			"path": "../lora-comm-Node-A"
+		},
+		{
+			"name": "lora-comm-Node-B",
+			"path": "../lora-comm-Node-B"
+		},
+		{
+			"name": "lora-comm-Node-C",
+			"path": "../lora-comm-Node-C"
+		},
+		{
+			"name": "lora-comm-base",
+			"path": "../lora-comm-base"
+		}
+	],
+	"settings": {}
+}
